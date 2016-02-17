@@ -1,0 +1,5 @@
+(cl-text o21
+  (O 2 1)
+  (cl-imports https://github.com/eugenk/test-import-clif/raw/master/oA.clif)
+  (cl-imports https://github.com/eugenk/test-import-clif/raw/master/o2.clif)
+)
